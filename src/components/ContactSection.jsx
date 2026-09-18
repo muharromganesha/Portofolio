@@ -18,7 +18,7 @@ const links = [
   { icon: Linkedin, href: "https://linkedin.com/in/muharrom-ganesha2503", label: "LinkedIn" },
   { icon: Github, href: "https://github.com/muharromganesha", label: "GitHub" },
   { icon: Globe, href: "https://muharromganesha.vercel.app", label: "Website" },
-  { icon: FileText, href: "/cv-muharrom-ganesha.pdf", label: "CV / Resume" },
+  { icon: FileText, href: "https://drive.google.com/file/d/15T8mUprUtYgyOet_jleVlixUy_Z6vB1G/view?usp=sharing", label: "CV / Resume" },
 ];
 
 // Ganti teks ini dengan nama/kata yang kamu inginkan.

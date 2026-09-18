@@ -100,7 +100,7 @@ export default function AboutMe() {
           <Reveal delay={360}>
             <div style={{ marginTop: 28, display: "flex", justifyContent: "flex-end" }}>
               <a
-                href={RESUME_URL}
+                href={"https://drive.google.com/file/d/15T8mUprUtYgyOet_jleVlixUy_Z6vB1G/view?usp=sharing"}
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{
