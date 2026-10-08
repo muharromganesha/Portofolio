@@ -70,10 +70,10 @@ export default function ContactSection() {
 
         <div style={{ textAlign: "right", maxWidth: 380 }}>
           <p style={{ fontStyle: "italic", color: colors.textPrimary, fontSize: 14, margin: 0 }}>
-            "In God we trust, all others bring data."
+            "My life seemed to be a series of event and accidents, yet when i look back i see a patern."
           </p>
           <p style={{ marginTop: 4, fontSize: 12, color: colors.textSecondary, display: "flex", alignItems: "center", justifyContent: "flex-end", gap: 6 }}>
-            <Code2 size={12} /> W. Edwards Deming <Lightbulb size={12} />
+            <Code2 size={12} /> Benoit Mandelbrot <Lightbulb size={12} />
           </p>
         </div>
       </div>

@@ -31,15 +31,15 @@ export const projects = [
     driveUrl: "",
   },
   {
-    title: "Webiste Pencatatan Keuangan Pribadi",
-    desc: "On Going.",
+    title: "ChrimaLog",
+    desc: "Website pribadi untuk mencatat pemasukan dan pengeluaran. (bukan untuk publik hanya beberapa orang yang boleh pakai).",
     metric: "",
     metricLabel: "",
     tags: ["React.js", "Supabase", "Gemini API"],
     thumbnail: "/thumbnails/project-3.png",
     githubUrl: "",
     mediumUrl: "",
-    driveUrl: "#",
+    driveUrl: "https://drive.google.com/file/d/1YCmXd5Ji2KAikePZnlv_-2lB3mYQqIfb/view?usp=sharing",
   },
   {
     title: "Analisis Kecelakaan di Kota New York",
